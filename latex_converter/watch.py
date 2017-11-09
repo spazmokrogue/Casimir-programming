@@ -1,1 +1,1 @@
-wathever
+print('Hello world!')
